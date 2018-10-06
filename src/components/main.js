@@ -1,5 +1,6 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
+import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 
 import LandingPage from './landingpage';
 import AboutMe from './aboutme';

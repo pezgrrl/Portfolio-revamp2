@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell, ProgressBar } from 'react-mdl';
+import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 
 class Skills extends Component {
   render() {

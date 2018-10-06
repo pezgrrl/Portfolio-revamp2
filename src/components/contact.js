@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
+import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 
 
 class Contact extends Component {

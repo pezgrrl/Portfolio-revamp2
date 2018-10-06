@@ -6,6 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
 import { BrowserRouter } from 'react-router-dom';
+import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 
 ReactDOM.render(
   <BrowserRouter>

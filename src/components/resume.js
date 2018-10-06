@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
+import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 import Education from './education';
 import Experience from './experience';
 import Skills from './skills';

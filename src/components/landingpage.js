@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
+import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 
 
 class Landing extends Component {
@@ -8,9 +9,7 @@ class Landing extends Component {
       <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
-            <img
-             
-              className="avatar-img"
+            <img className="avatar-img" alt="avatar"
               />
 
             <div className="banner-text">

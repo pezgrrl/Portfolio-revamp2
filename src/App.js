@@ -3,6 +3,7 @@ import './App.css';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
 import Main from './components/main';
 import { Link } from 'react-router-dom';
+import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 
 class App extends Component {
   render() {
