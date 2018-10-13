@@ -9,15 +9,13 @@ class Landing extends Component {
       <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
-            <img className="avatar-img" alt="avatar"
+            <img className="avatar-img" alt=""
               />
 
             <div className="banner-text">
               <h1>Jill Morimoto</h1>
 
             <hr/>
-
-          <p>HTML/CSS | JavaScript | React | NodeJS | Express | MongoDB</p>
 
         <div className="social-links">
 

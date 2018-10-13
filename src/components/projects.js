@@ -97,12 +97,13 @@ class Projects extends Component {
         <div className="projects-grid">
           {/* Project 1 */}
           <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-            <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://i.imgur.com/bmNC3hm.jpg) center / cover' }} >LIRI</CardTitle>
+            <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://i.imgur.com/mVMqFwm.jpg) center / cover' }} >Mongo-Scraper</CardTitle>
             <CardText>
-              LIRI, a SIRI type bot that takes commands for Twitter, Spotify, Movies, and a random command.
+              News scraper that feeds information from a MongoDB database and provides a user links from The Ringer. Can save articles and make notes.
         </CardText>
             <CardActions border>
-              <Button colored><a href="https://github.com/pezgrrl/liri-node-app">GitHub</a></Button>
+              <Button colored><a href="https://github.com/pezgrrl/mongo-scraper">GitHub</a></Button>
+              <Button colored><a href="https://agile-chamber-94747.herokuapp.com/">Try it!</a></Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
             </CardMenu>
