@@ -111,13 +111,13 @@ class Projects extends Component {
 
           {/* Project 2 */}
           <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-            <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://i.imgur.com/TUXtKxe.jpg) center / cover' }} >GIPHY</CardTitle>
+            <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://i.imgur.com/e5kctfU.jpg) center / cover' }} >Clicky game</CardTitle>
             <CardText>
-              API with gifs
+            A click memory game with drag queens in React
         </CardText>
             <CardActions border>
-              <Button colored><a href="https://github.com/pezgrrl/GIPHY">GitHub</a></Button>
-              <Button colored><a href="https://pezgrrl.github.io/GIPHY/">Try it!</a></Button>
+              <Button colored><a href="https://github.com/pezgrrl/clickygame">GitHub</a></Button>
+              <Button colored><a href="https://pezgrrl.github.io/clickygame/">Try it!</a></Button>
             </CardActions>
             <CardMenu style={{ color: '#fff' }}>
             </CardMenu>
