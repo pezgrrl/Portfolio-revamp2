@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import 'react-skeleton-css/styles/skeleton.2.0.4.css'
 
-import LandingPage from './landingpage';
+import LandingPage from './landingPage';
 import Contact from './contact';
 import Projects from './projects';
 import Resume from './resume';
