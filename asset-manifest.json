@@ -1,7 +1,7 @@
 {
   "main.css": "/Portfolio-revamp2/static/css/main.69ee2dfa.chunk.css",
-  "main.js": "/Portfolio-revamp2/static/js/main.17f5df25.chunk.js",
-  "main.js.map": "/Portfolio-revamp2/static/js/main.17f5df25.chunk.js.map",
+  "main.js": "/Portfolio-revamp2/static/js/main.76f27d0b.chunk.js",
+  "main.js.map": "/Portfolio-revamp2/static/js/main.76f27d0b.chunk.js.map",
   "static/css/1.f22c7c1a.chunk.css": "/Portfolio-revamp2/static/css/1.f22c7c1a.chunk.css",
   "static/js/1.24e2b5ad.chunk.js": "/Portfolio-revamp2/static/js/1.24e2b5ad.chunk.js",
   "static/js/1.24e2b5ad.chunk.js.map": "/Portfolio-revamp2/static/js/1.24e2b5ad.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.69ee2dfa.chunk.css.map": "/Portfolio-revamp2/static/css/main.69ee2dfa.chunk.css.map",
   "static/css/1.f22c7c1a.chunk.css.map": "/Portfolio-revamp2/static/css/1.f22c7c1a.chunk.css.map",
   "index.html": "/Portfolio-revamp2/index.html",
-  "precache-manifest.f00a93b033791a653fc31ddf8ff0bbcf.js": "/Portfolio-revamp2/precache-manifest.f00a93b033791a653fc31ddf8ff0bbcf.js",
+  "precache-manifest.2c2538eba322569c4e4935a2419ef6dd.js": "/Portfolio-revamp2/precache-manifest.2c2538eba322569c4e4935a2419ef6dd.js",
   "service-worker.js": "/Portfolio-revamp2/service-worker.js"
 }
