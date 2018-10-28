@@ -226,7 +226,7 @@ class Projects extends Component {
                   "url(https://i.imgur.com/dZ8hUbw.jpg) center / cover"
               }}
             >
-              Bamazon
+              NYTReact
             </CardTitle>
             <CardText>
               NYT news app using NYT API. Can view, save and delete articles. Created with React.
