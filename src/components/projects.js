@@ -223,17 +223,20 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://i.imgur.com/px6Lw6N.jpg) center / cover"
+                  "url(https://i.imgur.com/dZ8hUbw.jpg) center / cover"
               }}
             >
               Bamazon
             </CardTitle>
             <CardText>
-              Storefront with inventory management using mySQL.
+              NYT news app using NYT API. Can view, save and delete articles. Created with React.
             </CardText>
             <CardActions border>
               <Button colored>
-                <a href="https://github.com/pezgrrl/Bamazon">GitHub</a>
+                <a href="https://github.com/pezgrrl/NYTReact">GitHub</a>
+              </Button>
+              <Button colored>
+                <a href="https://whispering-basin-33376.herokuapp.com/">Try it!</a>
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }} />
